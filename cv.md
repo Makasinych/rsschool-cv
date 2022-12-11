@@ -1,6 +1,6 @@
-## Zyl Maksim
+# Zyl Maksim
 ---
-### My contact info
+## My contact info
 ![](https://icons.iconarchive.com/icons/alecive/flatwoken/16/Apps-Home-icon.png) __Minsk, Belarus__
 ![](https://icons.iconarchive.com/icons/kocco/ndroid/16/phone-blue-icon.png) __+375291338079__
 ![](https://icons.iconarchive.com/icons/iconshots/social-media-network/16/mail-icon.png) __makasinka@tut.by__ 
